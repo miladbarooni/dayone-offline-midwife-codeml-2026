@@ -1,0 +1,230 @@
+{
+ "type_page": "IDENTIFICATION ET ANTÉCÉDENTS",
+ "nom_patiente": "Dlatkzana",
+ "champs": [
+  {
+   "nom": "Age",
+   "valeur": "21 ans",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "CIN",
+   "valeur": "M-10-1460",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Niveau d'instruction",
+   "valeur": "VIDE",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Profession",
+   "valeur": "VIDE",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Adresse",
+   "valeur": "Dakar",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Téléphone",
+   "valeur": "VIDE",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Nom du Mari",
+   "valeur": "VIDE",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Profession du Mari",
+   "valeur": "VIDE",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Consanguinité",
+   "valeur": "VIDE",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Grossesse désirée",
+   "valeur": "VIDE",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "HTA",
+   "valeur": "VIDE",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Diabète",
+   "valeur": "VIDE",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Maladies héréditaires",
+   "valeur": "VIDE",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Malformations",
+   "valeur": "VIDE",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Allergies",
+   "valeur": "VIDE",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Autres à préciser",
+   "valeur": "VIDE",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Antécédents médicaux",
+   "valeur": "VIDE",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Antécédents chirurgicaux",
+   "valeur": "VIDE",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Antécédents gynécologiques",
+   "valeur": "VIDE",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Nature",
+   "valeur": "VIDE",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Nombre",
+   "valeur": "VIDE",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Date",
+   "valeur": "VIDE",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Lieu",
+   "valeur": "VIDE",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Âge gestationnel",
+   "valeur": "VIDE",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Date",
+   "valeur": "VIDE",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Modalité d'extraction",
+   "valeur": "VIDE",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Indication césarienne",
+   "valeur": "VIDE",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Complication",
+   "valeur": "VIDE",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Poids nouveau-né",
+   "valeur": "VIDE",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Compl. nouveau-né",
+   "valeur": "VIDE",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Gestation",
+   "valeur": "VIDE",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Parité",
+   "valeur": "VIDE",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Nombre d'enfants vivants",
+   "valeur": "VIDE",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "VAT",
+   "valeur": "VIDE",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Vaccinée contre la rubéole",
+   "valeur": "VIDE",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Vaccinée contre l'hépatite B",
+   "valeur": "VIDE",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Frottis cervical / IVA",
+   "valeur": "VIDE",
+   "case_cochee": false,
+   "confiance": 1
+  }
+ ],
+ "_image": "1-2.jpg",
+ "_secondes": 204
+}

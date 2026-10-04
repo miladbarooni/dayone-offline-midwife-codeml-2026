@@ -1,0 +1,104 @@
+{
+ "type_page": "DÉROULEMENT DE L'ACCOUCHEMENT",
+ "nom_patiente": "Tazi Meryem",
+ "champs": [
+  {
+   "nom": "Patiente",
+   "valeur": "Tazi Meryem",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Lieu",
+   "valeur": "Maternité",
+   "case_cochee": true,
+   "confiance": 1
+  },
+  {
+   "nom": "Assisté par un personnel qualifié",
+   "valeur": "VIDE",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Date de l'accouchement",
+   "valeur": "03/02/2026",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Mode de l'accouchement",
+   "valeur": "Voie basse non instrumentale",
+   "case_cochee": true,
+   "confiance": 1
+  },
+  {
+   "nom": "Césarienne",
+   "valeur": "VIDE",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Indication de la césarienne",
+   "valeur": "ILLISIBLE",
+   "case_cochee": false,
+   "confiance": 0.3
+  },
+  {
+   "nom": "Présence de complications",
+   "valeur": "VIDE",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Type de complications",
+   "valeur": "ILLISIBLE",
+   "case_cochee": false,
+   "confiance": 0.3
+  },
+  {
+   "nom": "Si autres, préciser",
+   "valeur": "ILLISIBLE",
+   "case_cochee": false,
+   "confiance": 0.3
+  },
+  {
+   "nom": "État du nouveau-né",
+   "valeur": "Vivant",
+   "case_cochee": true,
+   "confiance": 1
+  },
+  {
+   "nom": "Sexe",
+   "valeur": "F",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Poids à la naissance",
+   "valeur": "3587 g",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Périmètre crânien à la naissance",
+   "valeur": "34 cm",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Anomalie à préciser",
+   "valeur": "Aucune",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Âge gestationnel",
+   "valeur": "40 SA",
+   "case_cochee": false,
+   "confiance": 1
+  }
+ ],
+ "_image": "dossiers_specimen_10_patientes-04.png",
+ "_secondes": 147
+}

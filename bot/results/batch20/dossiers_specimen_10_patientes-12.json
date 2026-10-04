@@ -1,0 +1,92 @@
+{
+ "type_page": "DÉROULEMENT DE L'ACCOUCHEMENT",
+ "nom_patiente": "Ouazzani Khadja",
+ "champs": [
+  {
+   "nom": "Patiente",
+   "valeur": "Ouazzani Khadja",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Lieu",
+   "valeur": "Clinique privée",
+   "case_cochee": true,
+   "confiance": 1
+  },
+  {
+   "nom": "Assisté par un personnel qualifié",
+   "valeur": "VIDE",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Date de l'accouchement",
+   "valeur": "23/05/2026",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Mode de l'accouchement",
+   "valeur": "Césarienne : Urgence",
+   "case_cochee": true,
+   "confiance": 1
+  },
+  {
+   "nom": "Indication de la césarienne",
+   "valeur": "Souffrance foetale",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Présence de complications",
+   "valeur": "VIDE",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Type de complications",
+   "valeur": "VIDE",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "État du nouveau-né",
+   "valeur": "Vivant",
+   "case_cochee": true,
+   "confiance": 1
+  },
+  {
+   "nom": "Sexe",
+   "valeur": "M",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Poids à la naissance",
+   "valeur": "3699 g",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Périmètre crânien à la naissance",
+   "valeur": "34 cm",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Anomalie à préciser",
+   "valeur": "Aucune",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Âge gestationnel",
+   "valeur": "40 SA",
+   "case_cochee": false,
+   "confiance": 1
+  }
+ ],
+ "_image": "dossiers_specimen_10_patientes-12__1D4u3zWyes.png",
+ "_secondes": 171
+}

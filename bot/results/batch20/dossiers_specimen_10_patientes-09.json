@@ -1,0 +1,62 @@
+{
+ "type_page": "FICHE DE SURVEILLANCE (en-tête)",
+ "nom_patiente": "Ouazzani Khadja",
+ "champs": [
+  {
+   "nom": "N° de la fiche",
+   "valeur": "2026-416-002",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Région",
+   "valeur": "Fès-Meknès",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Province",
+   "valeur": "Meknès",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Nom de l'établissement sanitaire",
+   "valeur": "CSC Hay Salam",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Type de l'établissement",
+   "valeur": "CSC",
+   "case_cochee": true,
+   "confiance": 1
+  },
+  {
+   "nom": "Couverture",
+   "valeur": "Fixe",
+   "case_cochee": true,
+   "confiance": 1
+  },
+  {
+   "nom": "Nom/Prénom de la parturiente",
+   "valeur": "Ouazzani Khadja",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Grossesse classée à risque",
+   "valeur": "H.T.A",
+   "case_cochee": true,
+   "confiance": 1
+  },
+  {
+   "nom": "Type de risque",
+   "valeur": "Métrorragie",
+   "case_cochee": true,
+   "confiance": 1
+  }
+ ],
+ "_image": "dossiers_specimen_10_patientes-09.png",
+ "_secondes": 146
+}

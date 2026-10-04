@@ -1,0 +1,62 @@
+{
+ "type_page": "FICHE DE SURVEILLANCE (en-tête)",
+ "nom_patiente": "",
+ "champs": [
+  {
+   "nom": "N° de la fiche",
+   "valeur": "1 NL64125",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Région",
+   "valeur": "Casablanca",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Province",
+   "valeur": "El Jadida",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Nom de l'établissement sanitaire",
+   "valeur": "CIS Sidi Smail",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Type de l'établissement sanitaire",
+   "valeur": "CSA",
+   "case_cochee": true,
+   "confiance": 1
+  },
+  {
+   "nom": "Mode de la couverture",
+   "valeur": "Fixe",
+   "case_cochee": true,
+   "confiance": 1
+  },
+  {
+   "nom": "Nom/Prénom de la parturiente",
+   "valeur": "ILLISIBLE",
+   "case_cochee": false,
+   "confiance": 0.3
+  },
+  {
+   "nom": "Grossesse classée à risque",
+   "valeur": "VIDE",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Type de risque",
+   "valeur": "ILLISIBLE",
+   "case_cochee": false,
+   "confiance": 0.3
+  }
+ ],
+ "_image": "1-1.jpg",
+ "_secondes": 88
+}

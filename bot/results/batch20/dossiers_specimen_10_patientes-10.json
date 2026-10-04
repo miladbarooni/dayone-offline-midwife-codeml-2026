@@ -1,0 +1,134 @@
+{
+ "type_page": "IDENTIFICATION ET ANTÉCÉDENTS",
+ "nom_patiente": "Ahmed Ouazzani",
+ "champs": [
+  {
+   "nom": "Age",
+   "valeur": "21",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "CIN",
+   "valeur": "CJ292996",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Niveau d'instruction",
+   "valeur": "Aucun",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Profession",
+   "valeur": "Agricultrice",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Adresse",
+   "valeur": "33 Rue Zerkfouni, Meknès",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Téléphone",
+   "valeur": "06 00 48 18 24",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Nom du Mari",
+   "valeur": "Ahmed Ouazzani",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Profession du Mari",
+   "valeur": "Chauffeur",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Consanguinité",
+   "valeur": "VIDE",
+   "case_cochee": false,
+   "confiance": 0.5
+  },
+  {
+   "nom": "Grossesse désirée",
+   "valeur": "VIDE",
+   "case_cochee": false,
+   "confiance": 0.5
+  },
+  {
+   "nom": "Antécédents familiaux",
+   "valeur": "RAS",
+   "case_cochee": true,
+   "confiance": 1
+  },
+  {
+   "nom": "Antécédents de la femme",
+   "valeur": "RAS",
+   "case_cochee": true,
+   "confiance": 1
+  },
+  {
+   "nom": "Antécédents obstétricaux",
+   "valeur": "VIDE",
+   "case_cochee": false,
+   "confiance": 0.5
+  },
+  {
+   "nom": "Déroulement des accouchements antérieurs",
+   "valeur": "VIDE",
+   "case_cochee": false,
+   "confiance": 0.5
+  },
+  {
+   "nom": "Gestation",
+   "valeur": "4",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Parité",
+   "valeur": "3",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Nombre d'enfants vivants",
+   "valeur": "3",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "VAT",
+   "valeur": "2",
+   "case_cochee": true,
+   "confiance": 1
+  },
+  {
+   "nom": "Vaccinée contre la rubéole",
+   "valeur": "VIDE",
+   "case_cochee": false,
+   "confiance": 0.5
+  },
+  {
+   "nom": "Vaccinée contre l'hépatite B",
+   "valeur": "VIDE",
+   "case_cochee": false,
+   "confiance": 0.5
+  },
+  {
+   "nom": "Frottis cervical / IVA",
+   "valeur": "Normal",
+   "case_cochee": false,
+   "confiance": 1
+  }
+ ],
+ "_image": "dossiers_specimen_10_patientes-10__1U_S1pqftP.png",
+ "_secondes": 190
+}

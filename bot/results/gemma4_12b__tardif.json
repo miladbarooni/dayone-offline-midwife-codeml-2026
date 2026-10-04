@@ -1,0 +1,162 @@
+{
+ "type_page": "CONSULTATION DU POST-PARTUM TARDIF",
+ "nom_patiente": "Tazi Meryem",
+ "champs": [
+  {
+   "nom": "Date de la consultation",
+   "valeur": "18/03/2026",
+   "case_cochee": false,
+   "confiance": 1.0
+  },
+  {
+   "nom": "Moment",
+   "valeur": "entre 40ème et 50ème jour",
+   "case_cochee": true,
+   "confiance": 1.0
+  },
+  {
+   "nom": "T°",
+   "valeur": "37.0",
+   "case_cochee": false,
+   "confiance": 1.0
+  },
+  {
+   "nom": "TA",
+   "valeur": "102/71",
+   "case_cochee": false,
+   "confiance": 1.0
+  },
+  {
+   "nom": "Pouls",
+   "valeur": "75",
+   "case_cochee": false,
+   "confiance": 1.0
+  },
+  {
+   "nom": "Poids",
+   "valeur": "64 kg",
+   "case_cochee": false,
+   "confiance": 1.0
+  },
+  {
+   "nom": "État des conjonctives",
+   "valeur": "Normales",
+   "case_cochee": true,
+   "confiance": 1.0
+  },
+  {
+   "nom": "Présence du globe utérin",
+   "valeur": "VIDE",
+   "case_cochee": false,
+   "confiance": 1.0
+  },
+  {
+   "nom": "État des lochies",
+   "valeur": "Fade, claires",
+   "case_cochee": true,
+   "confiance": 1.0
+  },
+  {
+   "nom": "État du périnée",
+   "valeur": "Réparée",
+   "case_cochee": true,
+   "confiance": 1.0
+  },
+  {
+   "nom": "État des sphincters",
+   "valeur": "Normal",
+   "case_cochee": true,
+   "confiance": 1.0
+  },
+  {
+   "nom": "Césarienne",
+   "valeur": "VIDE",
+   "case_cochee": false,
+   "confiance": 1.0
+  },
+  {
+   "nom": "État de la cicatrice",
+   "valeur": "VIDE",
+   "case_cochee": false,
+   "confiance": 1.0
+  },
+  {
+   "nom": "État des seins",
+   "valeur": "Normal",
+   "case_cochee": true,
+   "confiance": 1.0
+  },
+  {
+   "nom": "État des mollets",
+   "valeur": "Normal",
+   "case_cochee": true,
+   "confiance": 1.0
+  },
+  {
+   "nom": "Présence de complication",
+   "valeur": "VIDE",
+   "case_cochee": false,
+   "confiance": 1.0
+  },
+  {
+   "nom": "Type de complication",
+   "valeur": "VIDE",
+   "case_cochee": false,
+   "confiance": 1.0
+  },
+  {
+   "nom": "Notion de prise de médicaments",
+   "valeur": "VIDE",
+   "case_cochee": false,
+   "confiance": 1.0
+  },
+  {
+   "nom": "Traitement prescrit",
+   "valeur": "Fer",
+   "case_cochee": true,
+   "confiance": 1.0
+  },
+  {
+   "nom": "Autres à préciser",
+   "valeur": "VIDE",
+   "case_cochee": false,
+   "confiance": 1.0
+  },
+  {
+   "nom": "Prochain rendez-vous",
+   "valeur": "VIDE",
+   "case_cochee": false,
+   "confiance": 1.0
+  },
+  {
+   "nom": "Désire utiliser une méthode",
+   "valeur": "Désire utiliser une méthode",
+   "case_cochee": true,
+   "confiance": 1.0
+  },
+  {
+   "nom": "Si oui laquelle",
+   "valeur": "pilule",
+   "case_cochee": true,
+   "confiance": 1.0
+  },
+  {
+   "nom": "Prescription faite",
+   "valeur": "Prescription faite",
+   "case_cochee": true,
+   "confiance": 1.0
+  },
+  {
+   "nom": "Référée",
+   "valeur": "VIDE",
+   "case_cochee": false,
+   "confiance": 1.0
+  },
+  {
+   "nom": "Si pas de méthode, pourquoi",
+   "valeur": "VIDE",
+   "case_cochee": false,
+   "confiance": 1.0
+  }
+ ]
+}

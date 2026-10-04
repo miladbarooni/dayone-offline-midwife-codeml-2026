@@ -1,0 +1,134 @@
+{
+ "type_page": "IDENTIFICATION ET ANTÉCÉDENTS",
+ "nom_patiente": "Mohamed Tazi",
+ "champs": [
+  {
+   "nom": "Age",
+   "valeur": "31",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "CIN",
+   "valeur": "CB609814",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Niveau d'instruction",
+   "valeur": "Lycée",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Profession",
+   "valeur": "Étudiante",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Adresse",
+   "valeur": "49 Rue Al Qods, Kénitra",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Téléphone",
+   "valeur": "06 00 76 13 48",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Nom du Mari",
+   "valeur": "Mohamed Tazi",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Profession du Mari",
+   "valeur": "Ouvrier",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Consanguinité",
+   "valeur": "VIDE",
+   "case_cochee": false,
+   "confiance": 0.9
+  },
+  {
+   "nom": "Grossesse désirée",
+   "valeur": "Grossesse désirée",
+   "case_cochee": true,
+   "confiance": 1
+  },
+  {
+   "nom": "Antécédents familiaux",
+   "valeur": "HTA: RAS, Diabète: RAS, Maladies héréditaires: Père, Malformations: RAS, Allergies: RAS",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Antécédents de la femme",
+   "valeur": "Médicaux: RAS, Chirurgicaux: Aucun, Gynécologiques: Cycles réguliers",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Anomalies des grossesses antérieures",
+   "valeur": "VIDE",
+   "case_cochee": false,
+   "confiance": 0.9
+  },
+  {
+   "nom": "Déroulement des accouchements antérieurs",
+   "valeur": "Accouch. 1: Date: 12/11/2022, Modalité d'extraction: Voie basse, Complication: RAS, Poids nouveau-né: 3626 g",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Gestation",
+   "valeur": "3",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Parité",
+   "valeur": "1",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Nombre d'enfants vivants",
+   "valeur": "1",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "VAT",
+   "valeur": "1",
+   "case_cochee": true,
+   "confiance": 1
+  },
+  {
+   "nom": "Vaccinée contre la rubéole",
+   "valeur": "Le 12/05/2022",
+   "case_cochee": true,
+   "confiance": 1
+  },
+  {
+   "nom": "Vaccinée contre l'hépatite B",
+   "valeur": "VIDE",
+   "case_cochee": false,
+   "confiance": 0.9
+  },
+  {
+   "nom": "Frottis cervical / IVA (moins de 3 ans)",
+   "valeur": "Normal",
+   "case_cochee": false,
+   "confiance": 1
+  }
+ ],
+ "_image": "dossiers_specimen_10_patientes-02.png",
+ "_secondes": 192
+}

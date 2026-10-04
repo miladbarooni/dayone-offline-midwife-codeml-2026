@@ -1,0 +1,164 @@
+{
+ "type_page": "CONSULTATION DU POST-PARTUM PRÉCOCE",
+ "nom_patiente": "",
+ "champs": [
+  {
+   "nom": "Date de la consultation",
+   "valeur": "10/02/2026",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Moment",
+   "valeur": "entre 7ème et 8ème jour",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "T°",
+   "valeur": "37.1 °C",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "TA",
+   "valeur": "48 cm",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Pouls",
+   "valeur": "34 cm",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Poids",
+   "valeur": "3485 g",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "État des conjonctives",
+   "valeur": "Normales",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Présence du globe utérin",
+   "valeur": "VIDE",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "État des lochies",
+   "valeur": "VIDE",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "État du périnée",
+   "valeur": "VIDE",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "État des sphincters",
+   "valeur": "VIDE",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Césarienne",
+   "valeur": "VIDE",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "État de la cicatrice",
+   "valeur": "VIDE",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "État des seins",
+   "valeur": "VIDE",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "État des mollets",
+   "valeur": "VIDE",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Présence de complication",
+   "valeur": "VIDE",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Type",
+   "valeur": "VIDE",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Notion de prise de médicaments",
+   "valeur": "VIDE",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Traitement prescrit",
+   "valeur": "VIDE",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Autres à préciser",
+   "valeur": "Néant",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Prochain rendez-vous",
+   "valeur": "12/03/2026",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Planification familiale",
+   "valeur": "Désire utiliser une méthode",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Si oui laquelle",
+   "valeur": "pilule",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Prescription faite",
+   "valeur": "VIDE",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Référée",
+   "valeur": "VIDE",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Si pas de méthode, pourquoi",
+   "valeur": "ILLISIBLE",
+   "case_cochee": false,
+   "confiance": 0.3
+  }
+ ],
+ "_image": "dossiers_specimen_10_patientes-06.png",
+ "_secondes": 198
+}

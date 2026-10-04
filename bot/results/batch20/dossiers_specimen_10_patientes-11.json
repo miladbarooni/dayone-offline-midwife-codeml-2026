@@ -1,0 +1,224 @@
+{
+ "type_page": "GROSSESSE ACTUELLE",
+ "nom_patiente": "",
+ "champs": [
+  {
+   "nom": "DDR",
+   "valeur": "11/08/2025",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Taille",
+   "valeur": "160 cm",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Groupage",
+   "valeur": "A",
+   "case_cochee": true,
+   "confiance": 1
+  },
+  {
+   "nom": "Rhésus",
+   "valeur": "Rh+",
+   "case_cochee": true,
+   "confiance": 1
+  },
+  {
+   "nom": "Date prévue d'accouchement",
+   "valeur": "18/05/2026",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Date de dépassement de terme",
+   "valeur": "25/05/2026",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Rendez-vous",
+   "valeur": "02/11/2025",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Venue le",
+   "valeur": "05/10/2025",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Visites de relance",
+   "valeur": "Non",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Age probable",
+   "valeur": "8 SA",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Poids (kg)",
+   "valeur": "71.0",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "TA",
+   "valeur": "15/97",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Anomalies squelette",
+   "valeur": "RAS",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "État des conjonctives",
+   "valeur": "Normales",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Examen des seins",
+   "valeur": "Normaux",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Œdèmes",
+   "valeur": "Non",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Mouvements actifs",
+   "valeur": "Oui",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "HU (cm)",
+   "valeur": "15",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "BCF",
+   "valeur": "12.9",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Examen au spéculum",
+   "valeur": "RAS",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "TV état du col",
+   "valeur": "Fermé",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "TV présentation",
+   "valeur": "Céphalique",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "TV bassin",
+   "valeur": "Normal",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Glucosurie",
+   "valeur": "Neg",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Albuminurie",
+   "valeur": "Neg",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Rubéole",
+   "valeur": "Immune",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Toxoplasmose",
+   "valeur": "Non immune",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Syphilis (TPHA/VDRL)",
+   "valeur": "Neg",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Ag HBs",
+   "valeur": "Neg",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Sérologie VIH",
+   "valeur": "Neg",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Hémoglobine",
+   "valeur": "13.2 g/dL",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Plaquettes",
+   "valeur": "247k",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Bilan glycémique",
+   "valeur": "0.8 g/L",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "RAI (si Rh négatif)",
+   "valeur": "Neg",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Traitement Fer",
+   "valeur": "Oui",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Examen fait par",
+   "valeur": "Sage-femme",
+   "case_cochee": false,
+   "confiance": 1
+  }
+ ],
+ "_image": "dossiers_specimen_10_patientes-11.png",
+ "_secondes": 268
+}

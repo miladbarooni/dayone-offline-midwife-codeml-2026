@@ -1,0 +1,164 @@
+{
+ "type_page": "CONSULTATION DU POST-PARTUM PRÉCOCE",
+ "nom_patiente": "Ouazzani Khadija",
+ "champs": [
+  {
+   "nom": "Date de la consultation",
+   "valeur": "30/05/2026",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Moment",
+   "valeur": "Entre le 7ème et 8ème jour après l'accouchement",
+   "case_cochee": true,
+   "confiance": 1
+  },
+  {
+   "nom": "T°",
+   "valeur": "36.9",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "TA",
+   "valeur": "117/78",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Pouls",
+   "valeur": "79",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Poids",
+   "valeur": "78 kg",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "État des conjonctives",
+   "valeur": "Normales",
+   "case_cochee": true,
+   "confiance": 1
+  },
+  {
+   "nom": "Présence du globe utérin",
+   "valeur": "Présence du globe utérin",
+   "case_cochee": true,
+   "confiance": 1
+  },
+  {
+   "nom": "État des lochies",
+   "valeur": "Fade",
+   "case_cochee": true,
+   "confiance": 1
+  },
+  {
+   "nom": "État du périnée",
+   "valeur": "Normal",
+   "case_cochee": true,
+   "confiance": 1
+  },
+  {
+   "nom": "État des sphincters (anal et urétral)",
+   "valeur": "Normal",
+   "case_cochee": true,
+   "confiance": 1
+  },
+  {
+   "nom": "Césarienne",
+   "valeur": "Césarienne",
+   "case_cochee": true,
+   "confiance": 1
+  },
+  {
+   "nom": "État de la cicatrice",
+   "valeur": "Propre",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "État des seins",
+   "valeur": "Normal",
+   "case_cochee": true,
+   "confiance": 1
+  },
+  {
+   "nom": "État des mollets",
+   "valeur": "Normal",
+   "case_cochee": true,
+   "confiance": 1
+  },
+  {
+   "nom": "Présence de complication",
+   "valeur": "VIDE",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Type de complication",
+   "valeur": "VIDE",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Notion de prise de médicaments",
+   "valeur": "VIDE",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Traitement prescrit",
+   "valeur": "Fer",
+   "case_cochee": true,
+   "confiance": 1
+  },
+  {
+   "nom": "Autres à préciser",
+   "valeur": "VIDE",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Prochain rendez-vous",
+   "valeur": "04/07/2026",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Planification familiale",
+   "valeur": "Désire utiliser une méthode",
+   "case_cochee": true,
+   "confiance": 1
+  },
+  {
+   "nom": "Si oui, laquelle",
+   "valeur": "pilule",
+   "case_cochee": true,
+   "confiance": 1
+  },
+  {
+   "nom": "Prescription faite",
+   "valeur": "VIDE",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Référée",
+   "valeur": "VIDE",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Si la mère ne désire pas une méthode contraceptive : Pourquoi ?",
+   "valeur": "VIDE",
+   "case_cochee": false,
+   "confiance": 1
+  }
+ ],
+ "_image": "dossiers_specimen_10_patientes-13.png",
+ "_secondes": 227
+}

@@ -1,0 +1,60 @@
+{
+ "type_page": "FICHE DE SURVEILLANCE (en-tête)",
+ "nom_patiente": "Tazi Meryem",
+ "champs": [
+  {
+   "nom": "N° de la fiche",
+   "valeur": "2026-823-001",
+   "case_cochee": false,
+   "confiance": 1.0
+  },
+  {
+   "nom": "Région",
+   "valeur": "Rabat-Salé-Kénitra",
+   "case_cochee": false,
+   "confiance": 1.0
+  },
+  {
+   "nom": "Province",
+   "valeur": "Kénitra",
+   "case_cochee": false,
+   "confiance": 1.0
+  },
+  {
+   "nom": "Nom de l'établissement sanitaire",
+   "valeur": "CSCA Al Mifaq",
+   "case_cochee": false,
+   "confiance": 1.0
+  },
+  {
+   "nom": "Type de l'établissement [case: DR/CSC/CSU/CSCA/CSUA]",
+   "valeur": "CSCA",
+   "case_cochee": true,
+   "confiance": 1.0
+  },
+  {
+   "nom": "Couverture [case: Fixe/Mobile]",
+   "valeur": "Fixe",
+   "case_cochee": true,
+   "confiance": 1.0
+  },
+  {
+   "nom": "Nom/Prénom de la parturiente",
+   "valeur": "Tazi Meryem",
+   "case_cochee": false,
+   "confiance": 1.0
+  },
+  {
+   "nom": "Grossesse classée à risque [case]",
+   "valeur": "VIDE",
+   "case_cochee": false,
+   "confiance": 1.0
+  },
+  {
+   "nom": "Type de risque [cases: Anémie/H.T.A/Diabète/Cardiopathie/Métrorragie/Infection/Pré-éclampsie/Eclampsie/Autres]",
+   "valeur": "VIDE",
+   "case_cochee": false,
+   "confiance": 1.0
+  }
+ ]
+}

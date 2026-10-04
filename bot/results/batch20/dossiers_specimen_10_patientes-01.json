@@ -1,0 +1,62 @@
+{
+ "type_page": "FICHE DE SURVEILLANCE (en-tête)",
+ "nom_patiente": "Tazi Meryem",
+ "champs": [
+  {
+   "nom": "N° de la fiche",
+   "valeur": "2026-823-001",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Région",
+   "valeur": "Rabat-Salé-Kénitra",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Province",
+   "valeur": "Kénitra",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Nom de l'établissement sanitaire",
+   "valeur": "CSCA Al Wifaq",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Type de l'établissement",
+   "valeur": "CSCA",
+   "case_cochee": true,
+   "confiance": 1
+  },
+  {
+   "nom": "Couverture",
+   "valeur": "Fixe",
+   "case_cochee": true,
+   "confiance": 1
+  },
+  {
+   "nom": "Nom/Prénom de la parturiente",
+   "valeur": "Tazi Meryem",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Grossesse classée à risque",
+   "valeur": "VIDE",
+   "case_cochee": false,
+   "confiance": 1
+  },
+  {
+   "nom": "Type de risque",
+   "valeur": "VIDE",
+   "case_cochee": false,
+   "confiance": 1
+  }
+ ],
+ "_image": "dossiers_specimen_10_patientes-01.png",
+ "_secondes": 79
+}
